@@ -33,5 +33,5 @@ so that operation like searching a contact or inserting or deleting a contact co
 
 
 ## Developed in VS Code
-![Screenshot (10)][https://github.com/AnirudhGupta97/Dictionary-Management-System/blob/main/Screenshot%20(13).png]
-![Screenshot (10)][https://github.com/AnirudhGupta97/Dictionary-Management-System/blob/main/Screenshot%20(14).png]
+![Screenshot (10)](https://github.com/AnirudhGupta97/Dictionary-Management-System/blob/main/Screenshot%20(13).png)
+![Screenshot (10)](https://github.com/AnirudhGupta97/Dictionary-Management-System/blob/main/Screenshot%20(14).png)
